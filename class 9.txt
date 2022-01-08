@@ -1,0 +1,303 @@
+remove bug fixes 
+
+1. <html lang="en">
+  <head>
+      <title>Document
+          
+              guvi
+      </title>
+  </head>
+  <body>
+  <div >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
+          <div>
+              Guvi Geek Network
+            </div>
+      </body>
+  </html>
+
+just replace the body tag after the head tag
+
+2. <html lang="en">
+    <head>
+        <title>Document
+            
+                guvi
+        </title>
+    </head>
+    <body>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+
+3. Design a contact us form with all fields as required.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h2>contact us</h2>
+  <a href="https://www.facebook.com/" target="_blank"><img src="https://image.shutterstock.com/image-photo/kiev-ukraine-april-27-2015-260nw-278925056.jpg" title="facebook" height="100" width="100"></a>
+  <a href="https://web.whatsapp.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" title="whatsApp" height="100" width="100"></a>
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png"title="instagram" height="100" width="100"></a>
+</body>
+</html>
+
+4.Use certain HTML elements to display the following in a HTML page.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <ul> <li>Programming Language</li><br />
+ <ul type="circle"> <li>JavaScript</li></ul><br />
+<ul><ol type="a"><li>Angular</li><br />
+  <li>React</li><br />
+    <li>Vue.js</li></ol></ul><br />
+    <ul type="circle"><li>Python</li></ul><br />
+<ul><ol type="a"><li>Django Framework</li><br />
+<li>Flask Framework</li></ol></ul><br />
+<ul type="circle"><li>Java</li></ul><br />
+<ul><ol type="a"><li>Spring</li><br />
+<li>Maven</li><br />
+<li>Hibernate</li></ol></ul></ul><br />
+<ul> <li>Database</li><br />
+  <ul type="circle"><li>MySQL</li><br />
+<li>MongoDB</li><br />
+  <li>Cansandra</li></ul></ul>
+</body>
+</html>
+
+5.Create an element that helps you to open the https://google.com in separate new tab.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  
+  <a href="https://google.com" target="_blank">google</a>
+  </body>
+</html>
+
+6.In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h3>Employee</h3>
+  <INPUT type="radio" >Salaried<br>
+  <INPUT type="radio" >Own business
+  </body>
+</html>
+
+7.
+
+
+8.Use the table tag to design given image Click here.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h3 align="center">Health Chart</h3>
+  <table  align="center" border="1" >
+    <tr align="center" >
+      <td rowspan="2" width="100" height="50"> state of health </td>
+      <td colspan="2" width="100" height="50"> Fasting value </td>
+      <td width="100" height="50"> After eating </td>
+      
+    </tr>
+    <tr align="center">
+      <td width="100" height="50"> Minimum </td>
+      <td width="100" height="50"> Maximum </td>
+      <td width="100" height="50"> 2 hours after eating </td>
+      
+    </tr>
+    <tr align="center">
+      <td width="100" height="50"> Healthy </td>
+      <td width="100" height="50"> 70 </td>
+      <td width="100" height="50"> 100 </td>
+      <td width="100" height="50"> Less than 140</td>
+      </tr>
+    <tr align="center">
+      <td width="100" height="50"> Pre-diabities </td>
+      <td width="100" height="50"> 102 </td>
+      <td width="100" height="50"> 126 </td>
+      <td width="100" height="50"> 140 to 200 </td>
+    </tr>
+    <tr align="center">
+      <td width="100" height="50"> Diabities </td>
+      <td width="100" height="50"> More than 126 </td>
+      <td width="100" height="50"> N/A </td>
+      <td width="100" height="50"> More than 200 </td>
+    </tr>
+  </table>
+  </body>
+</html>
+
+10
+<!DOCTYPE html>
+<html>
+<body>
+ <script src="index.js"></script>
+ <h1><b><u>"html and css"</u></b></h1>
+</body>
+
+
+</html>
+
+11Create an HTML page, which should contain all types of input elements.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+
+<h1 align="center">HTML Input Types</h1>
+
+    <!-- input type text -->
+    <h2>Text Types</h2>
+    <form action="">
+      <label for="">Text Box</label>
+      <input type="text" name="text" id="text" />
+    </form>
+
+    <!-- input type password -->
+    <h2>Password Types</h2>
+    <form action="" method="">
+      <label for="">Password</label>
+      <input type="password" name="password" id="password" />
+    </form>
+
+    <!-- input type email -->
+    <h2>Email Types</h2>
+    <form action="" method="get">
+      <label for="">Email</label>
+      <input type="email" name="email" id="email" />
+    </form>
+
+    <!-- input type number -->
+    <h2>Number Types</h2>
+    <form action="" method="">
+      <label for="">Number</label>
+      <input type="number" name="number" id="number" />
+    </form>
+
+    <!-- input type range -->
+    <h2>Range Types</h2>
+    <form action="" method="">
+      <label for="">Range</label>
+      <input type="range" name="range" id="range" />
+    </form>
+
+    <!-- input type search -->
+    <h2>Search Types</h2>
+    <form action="" method="post">
+      <label for="">Search</label>
+      <input type="search" name="search" id="search" />
+    </form>
+
+    <!-- input type radio -->
+    <h2>Radio Types</h2>
+    <form action="">
+      <label for="">Gender</label>
+      Male:
+      <input type="radio" name="demo" id="gender" /> Female:<input
+        type="radio"
+        name="demo"
+        id="gender"
+      />
+      Others: <input type="radio" name="demo" />
+    </form>
+
+    <!-- input type CHeckbox type -->
+    <form action="">
+      <label for="">Highest Qualification</label>
+      <input type="checkbox" name="checkbox" id="checkbox" />
+      <label for="">B.Tech</label>
+      <input type="checkbox" name="checkbox" id="checkbox" />
+      <label for="">M.Tech</label>
+      <input type="checkbox" name="checkbox" id="checkbox" />
+    </form>
+
+    <!-- input type date -->
+    <h2>Date Types</h2>
+    <form action="" method="">
+      <label for="">Date</label>
+      <input type="date" name="date" id="date" />
+    </form>
+
+    <!-- input type time -->
+    <h2>Time Types</h2>
+    <form action="" method="">
+      <label for="">Time</label>
+      <input type="time" name="time" id="time" />
+    </form>
+
+    <!-- input type datetime -->
+    <h2>Date Time Types</h2>
+    <form action="" method="">
+      <label for="">Date Time</label>
+      <input type="datetime" name="datetime" id="datetime" />
+    </form>
+
+    <!-- input type Number -->
+    <h2>Number Types</h2>
+    <form action="" method="">
+      <label for="">Number</label>
+      <input
+        type="number"
+        min="0"
+        max="101"
+        step="10"
+        name="number"
+        id="number"
+      />
+    </form>
+
+    <!-- input type color -->
+    <h2>Color Types</h2>
+    <form action="" method="">
+      <label for="">Color</label>
+      <input type="color" name="color" id="color" />
+    </form>
+
+    <input type="button" value="Submit" onclick="myFunction()" />
+  </body>
+</html>
